@@ -1,0 +1,362 @@
+[
+ {
+  "code": "A1",
+  "titel": "Scene Assessment & General Impression ",
+  "kategorie": "Untersuchung & Diagnostik",
+  "seite": 9
+ },
+ {
+  "code": "A2",
+  "titel": "Primary Survey",
+  "kategorie": "Untersuchung & Diagnostik",
+  "seite": 10
+ },
+ {
+  "code": "A3",
+  "titel": "Secondary Survey",
+  "kategorie": "Untersuchung & Diagnostik",
+  "seite": 11
+ },
+ {
+  "code": "B1",
+  "titel": "ALS - Advanced Life Support (nach ERC)",
+  "kategorie": "Reanimation",
+  "seite": 12
+ },
+ {
+  "code": "B2",
+  "titel": "ROSC - Return of Spontaneous Circulation",
+  "kategorie": "Reanimation",
+  "seite": 13
+ },
+ {
+  "code": "C1",
+  "titel": "Bradykardie",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 14
+ },
+ {
+  "code": "C2",
+  "titel": "Tachykardie",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 15
+ },
+ {
+  "code": "C3",
+  "titel": "ACS (Akutes Koronarsyndrom)",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 16
+ },
+ {
+  "code": "C4",
+  "titel": "Akute Herzinsuffizienz",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 17
+ },
+ {
+  "code": "C5",
+  "titel": "Kardiogener Schock",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 18
+ },
+ {
+  "code": "C6",
+  "titel": "Hypertensiver Notfall",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 19
+ },
+ {
+  "code": "C7",
+  "titel": "Pacer- & ICD-Fehlfunktionen",
+  "kategorie": "Kardiovaskuläre Notfälle",
+  "seite": 20
+ },
+ {
+  "code": "D1",
+  "titel": "Asthma bronchiale & Exazerbierte COPD",
+  "kategorie": "Respiratorische Notfälle",
+  "seite": 21
+ },
+ {
+  "code": "D2",
+  "titel": "Fremdkörperaspiration",
+  "kategorie": "Respiratorische Notfälle",
+  "seite": 22
+ },
+ {
+  "code": "E1",
+  "titel": "Bewusstseinsstörung",
+  "kategorie": "Neurologische Notfälle",
+  "seite": 23
+ },
+ {
+  "code": "E2",
+  "titel": "Stroke",
+  "kategorie": "Neurologische Notfälle",
+  "seite": 24
+ },
+ {
+  "code": "E3",
+  "titel": "Krampfanfall",
+  "kategorie": "Neurologische Notfälle",
+  "seite": 25
+ },
+ {
+  "code": "F1",
+  "titel": "Analgesie mit IV-Zugang",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 26
+ },
+ {
+  "code": "F2",
+  "titel": "Analgesie ohne IV-Zugang",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 27
+ },
+ {
+  "code": "F3",
+  "titel": "Narkose",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 28
+ },
+ {
+  "code": "F4",
+  "titel": "Narkosekonzept",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 29
+ },
+ {
+  "code": "F5",
+  "titel": "Schwieriger Atemweg",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 30
+ },
+ {
+  "code": "F6",
+  "titel": "NIV (Nicht-invasive Ventilation)",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 31
+ },
+ {
+  "code": "F7",
+  "titel": "Beatmungstransport",
+  "kategorie": "Analgesie, Narkose &amp; Beatmung",
+  "seite": 32
+ },
+ {
+  "code": "G1",
+  "titel": "Trauma",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 33
+ },
+ {
+  "code": "G2",
+  "titel": "Hypovolämischer Schock",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 34
+ },
+ {
+  "code": "G3",
+  "titel": "SHT (Schädel-Hirn-Trauma)",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 35
+ },
+ {
+  "code": "G4",
+  "titel": "Thoraxtrauma",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 36
+ },
+ {
+  "code": "G5",
+  "titel": "Extremitätentrauma",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 37
+ },
+ {
+  "code": "G6",
+  "titel": "Immobilisation",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 38
+ },
+ {
+  "code": "G7",
+  "titel": "Neurogener Schock",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 39
+ },
+ {
+  "code": "G8",
+  "titel": "Verbrennung & Verätzung",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 40
+ },
+ {
+  "code": "G9",
+  "titel": "Inhalationstrauma",
+  "kategorie": "Traumatologische Notfälle",
+  "seite": 41
+ },
+ {
+  "code": "H1",
+  "titel": "Intoxikation",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 42
+ },
+ {
+  "code": "H2",
+  "titel": "Hypothermie",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 43
+ },
+ {
+  "code": "H3",
+  "titel": "Sepsis & Septischer Schock",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 44
+ },
+ {
+  "code": "H4",
+  "titel": "Anaphylaxie & Anaphylaktischer Schock",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 45
+ },
+ {
+  "code": "H5",
+  "titel": "Psychische Erkrankungen & Zwangsmassnahmen",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 46
+ },
+ {
+  "code": "H6",
+  "titel": "Verzichtserklärung & FU",
+  "kategorie": "Sonstige Notfälle",
+  "seite": 47
+ },
+ {
+  "code": "I1",
+  "titel": "Geburt",
+  "kategorie": "Gynäkologische Notfälle",
+  "seite": 48
+ },
+ {
+  "code": "I2",
+  "titel": "Peripartale Hämorrhagie",
+  "kategorie": "Gynäkologische Notfälle",
+  "seite": 49
+ },
+ {
+  "code": "I3",
+  "titel": "Präeklampsie & Eklampsie",
+  "kategorie": "Gynäkologische Notfälle",
+  "seite": 50
+ },
+ {
+  "code": "J1",
+  "titel": "PALS - Pediatric Advanced Life Support (nach ERC)",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 51
+ },
+ {
+  "code": "J2",
+  "titel": "Neugeborenenversorgung",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 52
+ },
+ {
+  "code": "J3",
+  "titel": "Bradykardie Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 53
+ },
+ {
+  "code": "J4",
+  "titel": "Tachykardie Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 54
+ },
+ {
+  "code": "J5",
+  "titel": "Respiratorische Notfälle Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 55
+ },
+ {
+  "code": "J6",
+  "titel": "Fremdkörperaspiration Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 56
+ },
+ {
+  "code": "J7",
+  "titel": "Krampfanfall Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 57
+ },
+ {
+  "code": "J8",
+  "titel": "Anaphylaxie & Anaphylaktischer Schock Pädiatrie",
+  "kategorie": "Pädiatrische Notfälle",
+  "seite": 58
+ },
+ {
+  "code": "K1",
+  "titel": "Patientenübergabe",
+  "kategorie": "Sonstiges",
+  "seite": 59
+ },
+ {
+  "code": "K2",
+  "titel": "Checkliste IPS-Verlegung",
+  "kategorie": "Sonstiges",
+  "seite": 60
+ },
+ {
+  "code": "K3",
+  "titel": "Prätriage - MANV",
+  "kategorie": "Sonstiges",
+  "seite": 61
+ },
+ {
+  "code": "K4",
+  "titel": "Vorgehen bei Todesfall",
+  "kategorie": "Sonstiges",
+  "seite": 62
+ },
+ {
+  "code": "K5",
+  "titel": "Intraossärer Zugang (incl. Lokalanästhesie)",
+  "kategorie": "Sonstiges",
+  "seite": 63
+ },
+ {
+  "code": "K6a",
+  "titel": "Verbrennungsschema",
+  "kategorie": "Sonstiges",
+  "seite": 64
+ },
+ {
+  "code": "K6b",
+  "titel": "CO-Warnung / Massnahmen & Verhalten",
+  "kategorie": "Sonstiges",
+  "seite": 65
+ },
+ {
+  "code": "K7",
+  "titel": "APGAR",
+  "kategorie": "Sonstiges",
+  "seite": 66
+ },
+ {
+  "code": "K8",
+  "titel": "Handgriffe peripartale Hämorrhagie",
+  "kategorie": "Sonstiges",
+  "seite": 67
+ },
+ {
+  "code": "K9",
+  "titel": "CRS (Crisis Ressource Management)",
+  "kategorie": "Sonstiges",
+  "seite": 68
+ }
+]
